@@ -8,8 +8,39 @@ h1{
 }
 h3{
     font-family: 'Times New Roman', Times, serif;
+    margin-left:600px ;
 }
 span{
     margin-left: 1200px;
     
+}
+h2{
+    color: blue;
+    margin-left: 555px;
+}
+p{
+    color: rgb(233, 10, 10);
+    margin-left:530px;
+    font-size: x-large;
+}
+li{
+    margin-left: 550px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+table{
+    margin-left: 550px;
+    color: blue;
+    font-size:x-large;
+}
+input{
+    margin-left:550px;
+    background-color:red;
+    width: 200px;
+}
+button{
+    margin-left: 550px;
+    width:200px ;
+    background-color: rgb(43, 226, 58);
+    cursor: pointer;
 }
