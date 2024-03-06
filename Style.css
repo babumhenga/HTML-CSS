@@ -19,7 +19,7 @@ h2{
     margin-left: 555px;
 }
 p{
-    color: rgb(233, 10, 10);
+    color: rgb(10, 233, 148);
     margin-left:530px;
     font-size: x-large;
 }
@@ -43,4 +43,7 @@ button{
     width:200px ;
     background-color: rgb(43, 226, 58);
     cursor: pointer;
+}
+.logout{
+    border:5px;
 }
